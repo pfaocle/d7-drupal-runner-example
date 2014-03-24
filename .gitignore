@@ -1,0 +1,5 @@
+# .gitignore for a standard Drupal 7 build based in the sites subdirectory.
+
+# Drupal
+files
+settings.php
