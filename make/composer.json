@@ -1,0 +1,16 @@
+{
+  "name": "pfaocle/d7-drupal-runner-example",
+  "description": "Test Drupal 7 set-up for Drupal Runner.",
+
+  "repositories": [
+    {
+      "type": "vcs",
+      "url": "https://bitbucket.org/pfaocle/drupal-runner.git"
+    }
+  ],
+
+  "require": {
+    "codegyre/robo": "~0.4.5",
+    "pfaocle/drupal-runner": "dev-master#32ce98654a96d4c8cf954492182d0ae78794683a"
+  }
+}
