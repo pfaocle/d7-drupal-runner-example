@@ -11,6 +11,6 @@
 
   "require": {
     "codegyre/robo": "~0.4.5",
-    "pfaocle/drupal-runner": "dev-master#32ce98654a96d4c8cf954492182d0ae78794683a"
+    "pfaocle/drupal-runner": "dev-master#79ba903d586741524fbdbfa1e192765e24929bc4"
   }
 }
