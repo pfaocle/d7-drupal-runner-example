@@ -1,7 +1,7 @@
 d7-drupal-runner-example
 =====
 
-Minimal vanilla Drupal 7 build set-up for use with Drupal Runner and Robo.
+Minimal vanilla [Drupal](https://www.drupal.org/) 7 build set-up for use with Drupal Runner and [Robo](http://robo.li/).
 
 
 ## Usage
