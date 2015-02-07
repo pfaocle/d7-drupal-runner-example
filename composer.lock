@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "8877dd0d01833b4e3370045a769d3b06",
+    "hash": "abd0c049da11cbe25e575ba4be16fb62",
     "packages": [
         {
             "name": "boedah/robo-drush",
@@ -165,16 +165,17 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/pfaocle/drupal-runner.git",
-                "reference": "79ba903d586741524fbdbfa1e192765e24929bc4"
+                "reference": "0cf4168d118d4ae21dc684baf8738fd0c395b52a"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/pfaocle/drupal-runner/get/db469d18ad143ccd9f5fbd38b26cdc9a9a2da323.zip",
-                "reference": "79ba903d586741524fbdbfa1e192765e24929bc4",
+                "url": "https://bitbucket.org/pfaocle/drupal-runner/get/4207c41eb9b755d7decbcc60f8d155d9c1178f32.zip",
+                "reference": "0cf4168d118d4ae21dc684baf8738fd0c395b52a",
                 "shasum": ""
             },
             "require": {
                 "boedah/robo-drush": "1.0.*",
+                "codegyre/robo": "0.4.5",
                 "php": ">=5.4.0",
                 "symfony/yaml": "*"
             },
@@ -194,7 +195,7 @@
                 }
             ],
             "description": "An extension to Robo for building Drupal.",
-            "time": "2014-09-08 20:40:57"
+            "time": "2015-02-07 16:17:31"
         },
         {
             "name": "symfony/config",

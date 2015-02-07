@@ -10,7 +10,6 @@
   ],
 
   "require": {
-    "codegyre/robo": "0.4.5",
-    "pfaocle/drupal-runner": "dev-master#79ba903d586741524fbdbfa1e192765e24929bc4"
+    "pfaocle/drupal-runner": "dev-master#0cf4168d118d4ae21dc684baf8738fd0c395b52a"
   }
 }
