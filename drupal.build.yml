@@ -14,7 +14,7 @@ Build:
     drush-alias: @d7.local
     profile: minimal
     sites-subdir: d7
-    make: make/d7.make
+    make: d7.make
     sites:
         - 8080.d7.drupal.dev
 
