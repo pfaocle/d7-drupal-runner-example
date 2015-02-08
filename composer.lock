@@ -4,7 +4,7 @@
         "Read more about it at http://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "abd0c049da11cbe25e575ba4be16fb62",
+    "hash": "897f0b2218a4205f0ddaac5c40817286",
     "packages": [
         {
             "name": "boedah/robo-drush",
@@ -165,12 +165,12 @@
             "source": {
                 "type": "git",
                 "url": "https://bitbucket.org/pfaocle/drupal-runner.git",
-                "reference": "0cf4168d118d4ae21dc684baf8738fd0c395b52a"
+                "reference": "da9b27501be39364d7956976ccf8918af83e6acd"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://bitbucket.org/pfaocle/drupal-runner/get/4207c41eb9b755d7decbcc60f8d155d9c1178f32.zip",
-                "reference": "0cf4168d118d4ae21dc684baf8738fd0c395b52a",
+                "url": "https://bitbucket.org/pfaocle/drupal-runner/get/da9b27501be39364d7956976ccf8918af83e6acd.zip",
+                "reference": "da9b27501be39364d7956976ccf8918af83e6acd",
                 "shasum": ""
             },
             "require": {
@@ -178,6 +178,9 @@
                 "codegyre/robo": "0.4.5",
                 "php": ">=5.4.0",
                 "symfony/yaml": "*"
+            },
+            "require-dev": {
+                "codeception/codeception": "~2.0.10"
             },
             "type": "library",
             "autoload": {
@@ -195,7 +198,7 @@
                 }
             ],
             "description": "An extension to Robo for building Drupal.",
-            "time": "2015-02-07 16:17:31"
+            "time": "2015-02-08 14:25:31"
         },
         {
             "name": "symfony/config",
