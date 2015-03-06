@@ -10,6 +10,6 @@
   ],
 
   "require": {
-    "pfaocle/drupal-runner": "dev-master#0.1.0"
+    "pfaocle/drupal-runner": "dev-master#0.2.0"
   }
 }
